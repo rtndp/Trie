@@ -8,8 +8,12 @@ public class Driver {
 
         Trie trie = new Trie();
 
-        trie.insert("Word");
+        trie.insert("word");
+        trie.insert("words");
+        trie.insert("world");
+        trie.insert("worlds");
+        trie.insert("work");
 
-        trie.search("Word");
+        trie.search("word");
     }
 }

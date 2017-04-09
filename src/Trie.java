@@ -62,7 +62,6 @@ public class Trie {
 
 
         if (n != null) {
-            System.out.println(n.toString());
             return true;
         } else
             return false;
