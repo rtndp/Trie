@@ -1,12 +1,5 @@
-/**
- * Created by rmangalvedhekar on 4/9/17.
- */
-
 import java.util.HashMap;
 
-/**
- * Created by rmangalvedhekar on 4/9/17.
- */
 class Node {
     Character c;
     HashMap<Character, Node> children = new HashMap<Character, Node>();
