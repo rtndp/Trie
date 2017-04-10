@@ -13,14 +13,6 @@ class Node {
         this.c = c;
     }
 
-    @Override
-    public String toString() {
-        return "Node{" +
-            "c=" + c +
-            ", children=" + children +
-            ", isLeaf=" + isLeaf +
-            '}';
-    }
 }
 
 public class Trie {
