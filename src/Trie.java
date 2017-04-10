@@ -85,5 +85,7 @@ public class Trie {
 
     }
 
+    //Implement a dfs walk
+
 
 }
